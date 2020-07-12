@@ -1,0 +1,17 @@
+[이경문] 네트워크 기초 
+
+
+not udp port 19305
+packet list
+packet detail
+packet bytes
+
+
+nibble byte
+
+
+network byte order
+hot byte order
+
+16bit = rol
+32bit =bswap
